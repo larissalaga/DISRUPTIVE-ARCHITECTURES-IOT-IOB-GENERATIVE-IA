@@ -1,0 +1,8 @@
+intalar
+mosquittobroker
+mqtt Broker
+
+node red
+para startar é so digitar
+node-red na maquina virtual do azure
+
